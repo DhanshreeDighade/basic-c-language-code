@@ -1,2 +1,2 @@
-basic-c-code
+Basic code regarding to C Language
 
